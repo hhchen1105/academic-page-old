@@ -3,7 +3,7 @@ academic-page
 
 My personal academic webpage
 
-This is taylored to host on Google App Engine.
+This is taylored to host on the Google App Engine.
 
 * Usage:
 
