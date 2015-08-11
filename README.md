@@ -15,7 +15,7 @@ This is taylored to host on the Google App Engine.
 
   Probably need to visit https://security.google.com/settings/security/apppasswords to obtain Application Specific Password.
 
-  If there is no local browser, run
+  If you want to open a browser at another machine (not the console machine), run the following command and follow the instructions:
 
-  $ appcfg.py --noauth_local_webserver update [PATH-TO-ACADEMIC-PAGE-FOLDER]
-  
+  $ appcfg.py --noauth_local_webserver --oauth2 update [PATH-TO-ACADEMIC-PAGE-FOLDER]
+
